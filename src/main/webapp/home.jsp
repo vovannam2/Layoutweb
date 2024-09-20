@@ -14,5 +14,6 @@
 		<input type  ="text" name="images">
 		<input type ="submit" value ="Add Category">
 	 </form>
+	 
 </body>
 </html>
